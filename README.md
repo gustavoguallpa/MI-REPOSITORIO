@@ -2,7 +2,7 @@
 Creating a website for a food vendor
 Get your book turn to page 14. 
 
-<h1>Objective</h1>
+<h1>Mi fist practice in html</h1>
 
 <ul>
   <li> Create the structure of an HTML document</li>
